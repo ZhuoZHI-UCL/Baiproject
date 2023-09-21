@@ -1,0 +1,5 @@
+最佳f1分数: 0.9213770978476861
+最佳特征组合: [1, 2, 3, 6, 7, 8, 11, 12, 13, 16, 17, 18, 20, 21, 23, 25, 26]
+最佳模型: MLPClassifier
+最佳参数: {'activation': 'relu', 'alpha': 0.01, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'max_iter': 200}
+R^2方差: 0.024971432948672472

@@ -1,0 +1,5 @@
+最佳f1分数: 0.9454545454545453
+最佳特征组合: (0, 1, 2, 3, 6, 7, 9, 10, 12)
+最佳模型: MLPClassifier
+最佳参数: {'activation': 'tanh', 'alpha': 0.01, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'max_iter': 500}
+f1方差: 0.10909090909090911

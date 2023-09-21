@@ -1,0 +1,4 @@
+最佳R2分数: 0.6309969824569182
+最佳特征组合: [0, 2, 3, 5, 6, 7, 10, 11, 12, 15, 16, 17, 20, 22, 23, 25, 26]
+最佳模型: MLPRegressor
+最佳参数: {'activation': 'relu', 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'max_iter': 500}
